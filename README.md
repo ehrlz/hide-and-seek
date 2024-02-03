@@ -3,6 +3,8 @@ This Unity project serves as an educational showcase, allowing you to explore Un
 
 The game is about capturing all the point-cubes without being eliminated by the Zombunnies.
 
+![unity-game](https://github.com/ehrlz/unity_minigame/assets/62675568/40280345-623b-4b4a-a144-b7bf74096d93)
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Requirements
